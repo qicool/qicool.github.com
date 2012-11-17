@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Qicool
+title: QiCool
 ---
 {% include JB/setup %}
 
