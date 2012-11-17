@@ -1,1 +1,10 @@
-baseurl:/
+markdown: rdiscount
+permalink: /:year/:month/:day/:title
+url: 
+title: 
+author: 
+keywords: 
+description: 
+email: 
+googleAnalyticsID: 
+disqusShortname: 
